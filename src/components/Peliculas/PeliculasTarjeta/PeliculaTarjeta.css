@@ -1,0 +1,10 @@
+.Tarjeta{
+    cursor: pointer;
+    background-color: rgb(185, 83, 11);
+    font-size: 1rem;
+    border-radius: 20px;
+    text-align: center;
+    justify-content: space-between;
+    
+    
+}

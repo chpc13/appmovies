@@ -5,7 +5,7 @@ import "./peliculas.css"
 const peliculasInfo =[
   {
     id: "1",
-    name: "viernes 13",
+    name: "viernes 14",
     urlImagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg"
   },
   {

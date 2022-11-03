@@ -5,28 +5,28 @@ import "./peliculas.css"
 const peliculasInfo =[
   {
     id: "1",
-    name: "viernes 14",
-    urlImagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg"
+    name: "Jeepers Creepers",
+    urlImagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/g410Y1U1ELbmJG14Zru3UAimm1G.jpg"
   },
   {
     id: "2",
-    name: "viernes 14",
-    urlImagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg"
+    name: "Blackout",
+    urlImagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg"
   },
   {
     id: "3",
-    name: "viernes 15",
-    urlImagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg"
+    name: "Grimcutty",
+    urlImagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/qvg75YJMfbHeDNirUrrgBMQImRn.jpg"
   },
   {
     id: "4",
-    name: "viernes 13",
+    name: "The Good Doctor",
     urlImagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg"
   },
   {
     id: "5",
-    name: "viernes 13",
-    urlImagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg"
+    name: "Chainsaw Man",
+    urlImagen:"https://www.themoviedb.org/t/p/w220_and_h330_face/vV5UL98vkvMy6ygFLl4lw6vaAs2.jpg"
   }]
 
 const peliculas = () =>{

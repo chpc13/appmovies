@@ -4,9 +4,8 @@ const PeliculasTarjeta = (props) => {
   return (
       <div className='Tarjeta'>
           <img src={props.url} />
-          <hr />
-          <h2>{props.name}</h2>
-          
+      <h2>{props.name}</h2>
+      <p>DESCRIPCION</p>
          
       </div>
   )

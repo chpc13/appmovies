@@ -3,8 +3,8 @@ import "./Titulo.css"
 
 const Titulo = () => {
   return (
-    <div className='./Titulo.css'>
-      <h1>Peli C13</h1>
+    <div className='Titulo'>
+      <h1>PELI C-13</h1>
     </div>
   )
 }
